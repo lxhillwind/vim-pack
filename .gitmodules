@@ -1,0 +1,9 @@
+[submodule "start/base16-dynamic.vim"]
+	path = start/base16-dynamic.vim
+	url = https://github.com/lxhillwind/base16-dynamic.vim
+[submodule "start/securemodelines/after"]
+	path = start/securemodelines/after
+	url = https://github.com/ciaranm/securemodelines
+[submodule "start/vim-dirvish"]
+	path = start/vim-dirvish
+	url = https://github.com/justinmk/vim-dirvish
