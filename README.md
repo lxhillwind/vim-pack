@@ -1,4 +1,6 @@
-# vim plugin managed with git submodule
+# description
+
+vim plugin managed with git submodule
 
 # usage
 
